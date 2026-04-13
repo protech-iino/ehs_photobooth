@@ -1,0 +1,37 @@
+{
+    "template_path": "assets/template_20251219_082046.png",
+    "event_title": "Edustria High School Photobooth",
+    "countdown_seconds": 5,
+    "slots": [
+        {
+            "x": 49,
+            "y": 48,
+            "w": 1009,
+            "h": 691
+        },
+        {
+            "x": 46,
+            "y": 785,
+            "w": 546,
+            "h": 365
+        },
+        {
+            "x": 626,
+            "y": 785,
+            "w": 547,
+            "h": 368
+        },
+        {
+            "x": 1204,
+            "y": 785,
+            "w": 547,
+            "h": 367
+        }
+    ],
+    "slot_overlay_color": "#5000e6",
+    "slot_overlay_opacity": 0.17,
+    "slot_overlay_show_labels": true,
+    "overlay_path": "assets/overlay_20251219_024822.png",
+    "corner_radius": 20,
+    "corner_soft": 5
+}
